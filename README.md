@@ -68,3 +68,6 @@ If you use this library in your research, you can cite as follows:
   howpublished = {\url{https://github.com/moehmeni/syncedlyrics}},
 }
 ```
+
+## My fork
+i created this fork as a way to keep improving my [winlyrics](https://github.com/Klaus-Js/winlyrics) project, syncedlyrics was great for lyric availability but it may return false positives (find lyrics that arent from the desired song), this fork aims to supply more info about the lyrics such as song duration, title and source (provider)
